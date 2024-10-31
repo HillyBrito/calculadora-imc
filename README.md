@@ -1,4 +1,5 @@
 
+
 # calculadora-imc
 
 Projeto Interdisciplinar de Educação e Saúde - Guarapari/ES
@@ -51,7 +52,7 @@ Sou um profissional de TI dedicado, professor de Educação Profissional e Tecno
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/HillyBrito)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hillybrito)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hillybrito)
 
 
 
@@ -61,5 +62,11 @@ Javascript, HTML5, CSS3...
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+## Contatos
+
+Email: hillybrito@gmail.com
+LinkedIn: https://www.linkedin.com/in/hillybrito
+Instagram: @hillybrito
 
