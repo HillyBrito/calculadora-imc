@@ -52,6 +52,10 @@ Cálculo do IMC: utiliza o peso e altura para calcular o IMC e exibe uma mensage
 Classe de atenção ou normal: muda a cor do resultado com base no valor calculado do IMC.
 Essas tecnologias tornam o projeto interativo e visualmente atraente, com um estilo moderno e um cálculo funcional embutido na interface.
 
+Resultado final
+Acesse o resultado da Landing Page construída a partir desse desafio clicando no link abaixo:
+
+[Clique aqui](https://hillybrito.github.io/calculadora-imc/)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/HillyBrito)
